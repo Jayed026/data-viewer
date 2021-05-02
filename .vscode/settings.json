@@ -1,0 +1,5 @@
+{
+    "debug.javascript.autoExpandGetters": true,
+    "editor.formatOnSave": true,
+    "editor.formatOnPaste": true
+}
